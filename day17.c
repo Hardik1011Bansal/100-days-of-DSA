@@ -35,4 +35,6 @@ int main()
         }
     }
     printf("Max: %d\nMin: %d",max,min);
+    return 0;
+
 }
